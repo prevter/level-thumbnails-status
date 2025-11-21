@@ -4,18 +4,20 @@
     "url": "https://levelthumbs.prevter.me/",
     "icon": "https://icons.duckduckgo.com/ip3/levelthumbs.prevter.me.ico",
     "slug": "website-rest-api",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 10014,
-    "timeDay": 10014,
-    "timeWeek": 10014,
-    "timeMonth": 10014,
-    "timeYear": 10014,
-    "dailyMinutesDown": {}
+    "status": "up",
+    "uptime": "66.96%",
+    "uptimeDay": "66.96%",
+    "uptimeWeek": "66.96%",
+    "uptimeMonth": "66.96%",
+    "uptimeYear": "66.96%",
+    "time": 6855,
+    "timeDay": 6855,
+    "timeWeek": 6855,
+    "timeMonth": 6855,
+    "timeYear": 6855,
+    "dailyMinutesDown": {
+      "2025-11-21": 214
+    }
   },
   {
     "name": "Thumbnails",
