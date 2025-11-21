@@ -1,45 +1,21 @@
 [
   {
-    "name": "Website",
+    "name": "Website / REST API",
     "url": "https://levelthumbs.prevter.me/",
     "icon": "https://icons.duckduckgo.com/ip3/levelthumbs.prevter.me.ico",
-    "slug": "website",
+    "slug": "website-rest-api",
     "status": "up",
-    "uptime": "73.57%",
-    "uptimeDay": "73.57%",
-    "uptimeWeek": "73.57%",
-    "uptimeMonth": "73.57%",
-    "uptimeYear": "73.57%",
-    "time": 8646,
-    "timeDay": 8646,
-    "timeWeek": 8646,
-    "timeMonth": 8646,
-    "timeYear": 8646,
-    "dailyMinutesDown": {
-      "2025-11-21": 175,
-      "2025-11-20": 145
-    }
-  },
-  {
-    "name": "REST API",
-    "url": "https://levelthumbs.prevter.me/user/1",
-    "icon": "https://icons.duckduckgo.com/ip3/levelthumbs.prevter.me.ico",
-    "slug": "rest-api",
-    "status": "up",
-    "uptime": "73.62%",
-    "uptimeDay": "73.62%",
-    "uptimeWeek": "73.62%",
-    "uptimeMonth": "73.62%",
-    "uptimeYear": "73.62%",
-    "time": 12224,
-    "timeDay": 12224,
-    "timeWeek": 12224,
-    "timeMonth": 12224,
-    "timeYear": 12224,
-    "dailyMinutesDown": {
-      "2025-11-21": 175,
-      "2025-11-20": 144
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Thumbnails",
@@ -52,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 92,
-    "timeDay": 92,
-    "timeWeek": 92,
-    "timeMonth": 92,
-    "timeYear": 92,
+    "time": 78,
+    "timeDay": 78,
+    "timeWeek": 78,
+    "timeMonth": 78,
+    "timeYear": 78,
     "dailyMinutesDown": {}
   }
 ]
